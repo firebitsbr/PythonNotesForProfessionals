@@ -39,4 +39,14 @@ print(x[2])                  #exibe resultado da lista aninhada
 print(x[2][1])
 #Output: 4
 
+#Lastly, variables in Python do not have to stay the same type as which they were first defined -- you can simply use
+#= to assign a new value to a variable, even if that value is of a different type.
+
+#Por último, as variáveis em Python não precisam permanecer do mesmo tipo que foram definidas inicialmente - 
+# você pode simplesmente usar = para atribuir um novo valor a uma variável, mesmo se esse valor for de um tipo diferente.
+
+a = 2       #atribuir 2 a variavel a
+print(a)    #exibir a
+#Output: 2
+
 
