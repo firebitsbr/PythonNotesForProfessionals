@@ -49,4 +49,6 @@ a = 2       #atribuir 2 a variavel a
 print(a)    #exibir a
 #Output: 2
 
-
+a = 'New value'
+print(a)
+#Output: New value
