@@ -35,3 +35,15 @@ print(c)            #exibir c
 
 #complex: Comples numbers
 #complexo: números complexos
+
+a = 2 + 1j      #atribuir em a igual 2 + 1j
+b = 100 + 10j   #atribuir em b 
+
+#The < , <= , > and >= operators will raise a TypeError exception when any operand is a complex number.
+#Os operadores <, <=,> e> = irão gerar uma exceção TypeError quando qualquer operando for um número complexo.
+
+#Strings
+#Python 3.x version >= 3.0
+
+#str : a unicode string. The type of 'hello'    #str: uma string unicode. O tipo de 'olá'
+#bytes : a byte string. The type of b'hello'    #bytes: uma string de bytes. O tipo de b'hello '
