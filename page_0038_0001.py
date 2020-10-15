@@ -67,3 +67,15 @@ print(b)
 #Python 3.x Version >=0
 
 #None não tem nenhuma ordem natural. O uso de operadores de comparação de pedidos (<, <=,> =,>) não é mais compatível e gerará um TypeError.
+
+#Testing the type of variables
+#Testando o tipo de variáveis
+
+#In python, we can check the datatype of an object using the built-in function type .
+#Em python, podemos verificar o tipo de dados de um objeto usando o tipo de função embutido.
+
+a = '123'           #atribuir em a = '123'
+print(type(a))      #exibir tipo de dado de a
+
+b = 123             #atribuir em b = 123
+print(type(b))      #exibir tipo de dado de b
